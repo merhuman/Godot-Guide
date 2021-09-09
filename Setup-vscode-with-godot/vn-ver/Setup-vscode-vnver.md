@@ -35,3 +35,4 @@ https://github.com/godotengine/godot-vscode-plugin/files/4810957/godot-tools-eve
 - Click vào file VSIX trong cây thư mục để tiến hành cài đặt.
 
 Tới đây thì bạn đã có thể edit code cũng như debug trực tiếp ngay trên vscode rồi đó.
+Link bài hướng dẫn gốc: https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools
