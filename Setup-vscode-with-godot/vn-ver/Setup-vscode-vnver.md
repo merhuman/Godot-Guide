@@ -36,3 +36,4 @@ https://github.com/godotengine/godot-vscode-plugin/files/4810957/godot-tools-eve
 
 Tới đây thì bạn đã có thể edit code cũng như debug trực tiếp ngay trên vscode rồi đó.
 Link bài hướng dẫn gốc: https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools
+Known issue: https://github.com/godotengine/godot-vscode-plugin/issues/212
